@@ -20,3 +20,4 @@ export default apiKeys; Start the development server:
 bash npm start
 
 Usage Open the app in your web browser. By default, the app will detect your current location and display the weather information. Use the input field to enter a city name or zip code and click "Search" to get the weather data for the specified location.
+https://kraftshala-frontend-intern-harikrishna-avt6.vercel.app/
